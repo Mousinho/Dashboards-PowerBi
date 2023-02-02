@@ -16,4 +16,4 @@
 - 3 - Record of all detailed maintenance orders
 - 4 - Average machine repair time
 - 5 - Average failure time
-- 6 - Downtime of each machine  
+- 6 - Downtime of each machine   
